@@ -124,3 +124,8 @@ json
 
 1. **Access the Static Site:**
    - After configuring static website hosting, note the "Bucket website endpoint" URL provided in the static website hosting section.
+
+![alt text](<image copy.png>)
+![alt text](image.png)
+
+Successfully created a S3 bucket with a react app that pointed to Dave's 
